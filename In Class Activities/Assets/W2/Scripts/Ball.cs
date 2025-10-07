@@ -85,7 +85,7 @@ b *= 1.2f;
         // IF the value of 'b' is GREATER THAN **OR** EQUAL TO 1.0,
         //      set 'b' to 0.1. 
         if (b >= 1.0f)
-        {b}
+        {b = 0.1f;}
         // STEP 7 -------------------------------------------------------------
 
         // This line assigns a new color to your Ball with the new RGB values
@@ -104,12 +104,13 @@ b *= 1.2f;
         // Below this comment, write 2 lines of code to ADD the values of 
         //      r, g, and b, and then divide the result by 3.
         // Store the result in a variable named 'brightness'.
-        
+        float brightness = r + g + b;
+        brightness = brightness / 3.0f;
         // STEP 8 -------------------------------------------------------------
 
         // STEP 9 -------------------------------------------------------------
         // Uncomment the below line to make the 'brightness' text change in your game.
-        //_brightnessText.text = "brightness = " + brightness;
+        _brightnessText.text = "brightness = " + brightness;
         // STEP 9 -------------------------------------------------------------
     }
 }
