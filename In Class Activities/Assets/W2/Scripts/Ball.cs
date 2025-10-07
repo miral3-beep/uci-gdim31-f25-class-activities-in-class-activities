@@ -84,7 +84,8 @@ b *= 1.2f;
         // Below this comment, write an IF STATEMENT:
         // IF the value of 'b' is GREATER THAN **OR** EQUAL TO 1.0,
         //      set 'b' to 0.1. 
-        
+        if (b >= 1.0f)
+        {b}
         // STEP 7 -------------------------------------------------------------
 
         // This line assigns a new color to your Ball with the new RGB values
