@@ -1,7 +1,7 @@
 # in-class-activities
 ## Devlogs
 ### W1
-Write your W1 activity Devlog here.
+hello world
 
 ### W2
 1. R, G, and B values are represented in decimals for each shade. A slight change in each of the decimals would change the shade entirely. Therefore, RGB values must be stored as floats.
