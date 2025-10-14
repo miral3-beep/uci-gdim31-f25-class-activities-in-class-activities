@@ -12,6 +12,7 @@ hello world
 The input is the friendship level, and the character will respond in different paragraphs as strings. The other parameter is a boolean value, which is either true or false, and the player will respond based on whether they know the secret or not.
 
 The class would act as a toolbox, and the components are the tools inside it. Methods would be the functions each tool does, and members would be the different kinds of uses and situations the tools could be used for. 
+Ball will get brighter because the GetColorMultiplier makes it so that the ball color becomes lighter as it bounces. 
 
 ## Open-Source Assets
 ### W1
