@@ -14,6 +14,11 @@ The input is the friendship level, and the character will respond in different p
 The class would act as a toolbox, and the components are the tools inside it. Methods would be the functions each tool does, and members would be the different kinds of uses and situations the tools could be used for. 
 Ball will get brighter because the GetColorMultiplier makes it so that the ball color becomes lighter as it bounces. 
 
+### W4
+Table 9
+Line 5  declares the member variable float and sets the move speed at 1, line 22 the translation gets the input from the player and in 25 it would move the game object from the translateion sentence. 
+
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
