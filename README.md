@@ -19,7 +19,11 @@ Table 9
 
 Line 5  declares the member variable float and sets the move speed at 1, line 22 the translation gets the input from the player and in 25 it would move the game object from the translation sentence. 
 ### W5
-1. I asked if vectors are used on 3D surfaces, can they be applied on a 2D surface as well? Yes 
+1. I asked if vectors are used on 3D surfaces, can they be applied on a 2D surface as well? Yes
+2. To make the deer walk to the player using the Navmesh. The deer being the monobehaviour and the transform being the component.
+3. What member variables does this code need- transform
+4. What methods does this class need - Start()
+5. The method should indicate that the code will run when the game starts. 
 
 ## Open-Source Assets
 ### W1
