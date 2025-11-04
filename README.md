@@ -23,7 +23,10 @@ Line 5  declares the member variable float and sets the move speed at 1, line 22
 2. To make the deer walk to the player using the Navmesh. The deer being the monobehaviour and the transform being the component.
 3. What member variables does this code need- transform
 4. What methods does this class need - Start()
-5. The method should indicate that the code will run when the game starts. 
+5. The method should indicate that the code will run when the game starts.
+
+### W6 
+To create the Bat class, you would make it so the bat chases the player from Start() and will use Update() for each frame the bats are chasing the player and a method to Enable and Disable the Chase. 
 
 ## Open-Source Assets
 ### W1
