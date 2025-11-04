@@ -6005,6 +6005,8 @@ MonoBehaviour:
   _timeBetweenNewMessages: 0.5
   _playerTransform: {fileID: 137124478}
   _reactionUiPrefab: {fileID: 1213822324474933021, guid: 57c2a2a51066041a1985ab96803a3aa7, type: 3}
+  _bats: []
+  _messages: []
   _newTextTimers: []
 --- !u!4 &925081787
 Transform:
