@@ -27,7 +27,9 @@ Line 5  declares the member variable float and sets the move speed at 1, line 22
 
 ### W6 
 To create the Bat class, you would make it so the bat chases the player from Start() and will use Update() for each frame the bats are chasing the player and a method to Enable and Disable the Chase. 
-
+### W7
+https://docs.google.com/document/d/1pVQF8OAxJPUS-FvcqORq1R6zN29-Wx7oRm__EkzzC70/edit?usp=sharing 
+Animation and how components will interact with eachother. 
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
