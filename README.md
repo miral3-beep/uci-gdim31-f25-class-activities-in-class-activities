@@ -30,6 +30,7 @@ To create the Bat class, you would make it so the bat chases the player from Sta
 ### W7
 https://docs.google.com/document/d/1pVQF8OAxJPUS-FvcqORq1R6zN29-Wx7oRm__EkzzC70/edit?usp=sharing 
 Animation and how components will interact with eachother. 
+What was wrong with the code in Step 2? The code in Step 2 was wrong because transform.position would transform the character relative to the world, while transform.Translate would move the character relative to its position. To fix it would be to change position to translate and the += to parenthesis.
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
