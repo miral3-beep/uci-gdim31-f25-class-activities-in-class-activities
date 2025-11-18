@@ -32,8 +32,7 @@ https://docs.google.com/document/d/1pVQF8OAxJPUS-FvcqORq1R6zN29-Wx7oRm__EkzzC70/
 #### role: Animation and how components will interact with eachother. 
 
 What was wrong with the code in Step 2? The code in Step 2 was wrong because transform.position would transform the character relative to the world, while transform.Translate would move the character relative to its position. To fix it would be to change position to translate and the += to parenthesis.
-### W8
-https://docs.google.com/document/d/1mL0VwF9cMxc7tKewfRCJsPnf6wE5DGETmK4SMnYKBb4/edit?tab=t.0 UI section 
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
